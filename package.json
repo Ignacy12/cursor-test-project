@@ -1,0 +1,12 @@
+{
+  "name": "cursor-test-project",
+  "version": "1.0.0",
+  "description": "A simple test project to verify Mac dev setup and learn Cursor",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": ["cursor", "test"],
+  "license": "MIT"
+}
